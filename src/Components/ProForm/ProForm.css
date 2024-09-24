@@ -1,0 +1,10 @@
+Form{
+    border: 2px solid black;
+    display: grid;
+    /* place-items: center; */
+    padding: 10px;
+    /* justify-content: flex-start; */
+    text-align: start; 
+    width: 300px;
+    border-radius: 14px;
+}

@@ -1,0 +1,20 @@
+.pro_Table{
+    display: grid;
+    place-items: center;
+    margin-top: 8%;
+}
+table{
+    border: 2px solid black;
+}
+table td{
+    border: 2px solid black;
+}
+#heading{
+    color: blue;
+}
+.search{
+    margin-left: -11%;
+    background-color: aquamarine;
+    border-radius: 14px;
+    padding-left: 5px;
+}
